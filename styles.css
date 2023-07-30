@@ -57,7 +57,7 @@ header {
 }
 
 
-.bottun {
+.button {
   display: inline-block;
   padding: 0.75rem 1.5rem;
   border-radius: 3rem;
@@ -67,14 +67,14 @@ header {
   max-width: 20rem;
 }
 
-.ios-bottun {
+.ios-button {
   background-color: var(--Strong-Cyan);
   box-shadow: 0 2px  var(--Shodow-Cyan);
   border: 0.01rem solid var(--Strong-Cyan);
   margin-right: 5px;
 }
 
-.mac-bottun {
+.mac-button {
   background-color: var(--Light-Blue);
   box-shadow: 0 2px var(--Shadow-Blue);
   border: 0.01rem solid var(--Light-Blue);
@@ -218,7 +218,7 @@ snap {
   h2 {
     font-size: 1rem;
   }
-  .bottun {
+  .button {
     margin-top: 1rem;
   }
 
