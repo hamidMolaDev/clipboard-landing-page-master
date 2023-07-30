@@ -33,8 +33,8 @@ You can find the screenshot of my solution that i named @hamidMolaDev in screens
 
 ### Links
 
-- Sampla-Project-Solution URL: [@hamidMolaDev](https://hamidmoladev.github.io/clipboard-landing-page-master/)
-- Github-Live Site URL: [@hamidMolaDev](https://github.com/hamidMolaDev)
+- Sampla-Project-Solution URL: [@hamidMolaDev](https://github.com/hamidMolaDev/clipboard-landing-page-master.git)
+- Github-Live Site URL: [@hamidMolaDev](https://hamidmoladev.github.io/clipboard-landing-page-master/)
 
 ## My process
 - Creating the fundamental html elements.
